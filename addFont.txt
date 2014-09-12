@@ -1,0 +1,20 @@
+	
+@font-face {
+
+font-family: 'PTSans-CaptionBold';
+
+src: url('../font/PTSans-CaptionBold/eot/PTSans-CaptionBold.eot');
+
+src: url('../font/PTSans-CaptionBold/eot/PTSans-CaptionBold.eot?#iefix') format('embedded-opentype'),
+
+url('../font/PTSans-CaptionBold/woff/PTSans-CaptionBold.woff') format('woff'),
+
+url('../font/PTSans-CaptionBold/ttf/PTSans-CaptionBold.ttf') format('truetype'),
+
+url('../font/PTSans-CaptionBold/svg/PTSans-CaptionBold.svg#PTSans-CaptionBold') format('svg');
+
+font-weight: bold;
+
+font-style: normal;
+
+}
